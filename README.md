@@ -147,8 +147,9 @@
 <br/>
 
 ## 💾 ERD 다이어그램
+
 <div align="center">
-![Image](https://github.com/user-attachments/assets/48b80081-ed00-459d-bb66-bea292bbfcb9)
+  <img src="https://github.com/user-attachments/assets/48b80081-ed00-459d-bb66-bea292bbfcb9" alt="ERD 다이어그램" width="80%">
 </div>
 
 <br/>
