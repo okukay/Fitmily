@@ -148,7 +148,7 @@
 
 ## 💾 ERD 다이어그램
 <div align="center">
-![ERD](https://github.com/user-attachments/assets/cf7b868c-f867-4d6f-9332-5fa18f99d4a2)
+![Image](https://github.com/user-attachments/assets/48b80081-ed00-459d-bb66-bea292bbfcb9)
 </div>
 
 <br/>
