@@ -23,8 +23,7 @@
 📝 [회의록 보기](https)  <br/>
 
 ## ⏰ 개발 기간
-2025.04.14~2025.05.11 (4주) 기획, 설계<br/>
-2025.05.12~2025.05.22 (2주) 개발<br/>
+2025.04.14~2025.05.22 (6주)
 
 ## 💡 기획 배경
 현대 사회에서는 가족 간의 물리적 거리뿐만 아니라 심리적 거리도 점점 멀어지고 있습니다.
@@ -141,7 +140,7 @@
 
 ## 🔍 시스템 아키텍처
 <div align="center">
-    <img src="/uploads/20e86e4df7eeb856d05aa2211bf06617/architecture.png" alt="아키텍처" width=80%>
+    <img src="https://github.com/user-attachments/assets/110ac8ef-68e8-4315-8c37-1e1200f761c8" alt="아키텍처" width=80%>
 </div>
 
 <br/>
