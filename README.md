@@ -52,6 +52,8 @@
 ### 👤 회원 기능
 #### ✅ 회원가입
 - 이메일 인증, ID 중복 확인 하여 회원가입<br/>
+![Image](https://github.com/user-attachments/assets/f2e25ae6-66cd-42a8-a4d4-1c239faca6ef)
+![Image](https://github.com/user-attachments/assets/3a5bf789-2a7a-4f3e-a6a8-657a8828cfde)
 
 #### ✅ 로그인 / 로그아웃
 - 기본 폼 인증으로 로그인 / 로그아웃<br/>
