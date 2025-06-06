@@ -49,66 +49,46 @@
 
 ## 🔧 기능 소개
 서비스의 주요 기능들을 소개합니다.
-### 👤 회원 기능
-#### ✅ 회원가입
-- 이메일 인증, ID 중복 확인 하여 회원가입<br/>
-![Image](https://github.com/user-attachments/assets/f2e25ae6-66cd-42a8-a4d4-1c239faca6ef)
-![Image](https://github.com/user-attachments/assets/3a5bf789-2a7a-4f3e-a6a8-657a8828cfde)
+#### ✅ 회원관리
+<p>
+  <img src="https://github.com/user-attachments/assets/f2e25ae6-66cd-42a8-a4d4-1c239faca6ef" width="20%" />
+  <img src="https://github.com/user-attachments/assets/3a5bf789-2a7a-4f3e-a6a8-657a8828cfde" width="20%" />
+</p>
 
-#### ✅ 로그인 / 로그아웃
-- 기본 폼 인증으로 로그인 / 로그아웃<br/>
+#### ✅ 패밀리 홈 화면
+<p>
+  <img src="https://github.com/user-attachments/assets/983bdded-45e9-405c-9119-c1cfc29e7426" width="20%" />
+</p>
 
-### 🏠 홈 화면
-#### ✅ 패밀리 그룹 생성
-- 패밀리의 건강상태를 한 눈에 대시보드로 확인 가능<br/>
+#### ✅ 패밀리 그룹 생성,초대 및 가입
+<p>
+  <img src="https://github.com/user-attachments/assets/9e611260-69df-4dad-9af8-4c1fb8bf795e" width="20%" />
+  <img src="https://github.com/user-attachments/assets/1ff16573-93f6-49d0-8cba-f295185b6f35" width="20%" />
+  <img src="https://github.com/user-attachments/assets/4d2865e3-a038-4479-87f8-04bfdd342f01" width="20%" />
+</p>
 
-#### ✅ 산책 챌린지
-- 가족 챌린지 달성 순위 등 확인 가능<br/>
+#### ✅ 개인 운동 목표,기록 등록 및 운동 현황 조회
+<p>
+  <img src="https://github.com/user-attachments/assets/cec83998-f411-4d13-900f-2314cd1b51ff" width="20%" />
+</p>
 
-#### ✅ 현재 날씨 확인
-- 현재 위치의 날씨 확인 가능<br/>
 
-### 👨‍👩‍👧‍👦 패밀리 기능
-#### ✅ 패밀리 그룹 생성
-- 패밀리 그룹을 생성<br/>
-
-#### ✅ 패밀리 초대 및 가입
-- 패밀리장은 그룹코드로 패밀리를 초대<br/>
-
-### 🏃‍♂️ 나의 운동 데이터
-#### ✅ 개인 건강 정보 등록
-- 마이페이지에서 나의 건강상태 등록<br/>
-
-#### ✅ 개인 운동 목표 등록
-- 마이페이지에서 나의 운동 목표 등록<br/>
-
-#### ✅ 개인 운동 기록 등록
-- 마이페이지에서 나의 운동 기록 등록<br/>
-
-#### ✅ 개인 운동 기록 현황
-마이페이지에서 나의 운동 기록 현황 확인 가능<br/>
-
-### 📊 가족 운동 캘린더
 #### ✅ 가족 운동 기록 캘린더 시각화
-- 가족 운동 기록을 캘린더로 시각화하여 보여줌<br/>
+<p>
+  <img src="https://github.com/user-attachments/assets/4f47188b-34dd-45a2-984b-ad40b75b059c" width="20%" />
+</p>
 
-### 🌿 산책 기능
-#### ✅ 실시간 산책 공유
-- 실시간 산책 하고 있는 패밀리 위치 공유<br/>
+#### ✅ 실시간 산책 공유, 산책 기록 관리
+<p>
+  <img src="https://github.com/user-attachments/assets/20d10609-73e9-4c1e-b4cd-9c919afc7f12" width="20%" />
+  <img src="https://github.com/user-attachments/assets/9321cb40-ce87-4026-8813-dfe667a92d56" width="20%" />
+</p>
 
-#### ✅ 산책 기록 관리
-- 패밀리가 종료한 산책 루트와 거리, 시간 등 상세 확인 가능<br/>
+#### ✅ 단체 채팅, 콕 찌르기 기능
 
-#### ✅ 주간 산책 챌린지
-- 패밀리의 주간 목표 산책 거리 생성 후 가족이 해당 거리를 같이 산책<br/>
-
-### 📣 가족 소통 기능
-#### ✅ 단체 채팅
-- 건강을 주제로 가족 간 채팅 가능<br/>
-
-#### ✅ 콕 찌르기 기능
-- "김아빠"님이 "김엄마"님에게 산책을 장려했어요!"<br/>
-
+<p>
+  <img src="https://github.com/user-attachments/assets/ec16c8e1-84a5-4397-b3c3-50e73a75ad40" width="20%" />
+</p>
 
 
 ## 📢 기술 스택 소개
